@@ -77,7 +77,7 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos 
 
 ## Autores
 
-- **Tu nombre** - *Desarrollador Principal* - [TuUsuario](https://github.com/tu-usuario)
+- **Miguel Angel Rumbo Rebolledo** - *Desarrollador Principal*
 
 ## Agradecimientos
 
